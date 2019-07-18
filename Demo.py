@@ -1,2 +1,1 @@
-print("Hii Manimaran")
-print("Hello")
+print('Data Types')
